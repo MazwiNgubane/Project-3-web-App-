@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelemetryPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TelemetryPortal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V1.png",
+      "PackagePath": "staticwebassets\\images\\tech trends V1.png"
+    },
+    {
+      "Id": "C:\\Users\\jacqu\\source\\repos\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V2.png",
+      "PackagePath": "staticwebassets\\images\\tech trends V2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TelemetryPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TelemetryPortal.props",
+      "PackagePath": "build\\TelemetryPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TelemetryPortal.props",
+      "PackagePath": "buildMultiTargeting\\TelemetryPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TelemetryPortal.props",
+      "PackagePath": "buildTransitive\\TelemetryPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
