@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\repository\\clientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\repository\\clientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\clients\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\clients\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\repository\\iclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\repository\\iclientsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\contoller\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\contoller\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\telemetryportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\telemetryportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\clients\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\clients\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\clients\\clients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\clients\\clients.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\clients\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\clients\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\projects\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\projects\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\projects\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\projects\\projects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|d:\\desktop\\cmpg323 projects\\project 3\\telemetryportal\\telemetryportal\\components\\pages\\clients\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F9E42-0DAC-4F9C-9AF4-C041565B821A}|TelemetryPortal\\TelemetryPortal.csproj|solutionrelative:telemetryportal\\components\\pages\\clients\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Models\\Client.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Models\\Client.cs",
+              "RelativeToolTip": "TelemetryPortal\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:27:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\ClientsRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Repository\\ClientsRepository.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\ClientsRepository.cs",
+              "RelativeToolTip": "TelemetryPortal\\Repository\\ClientsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:21:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal\\Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:13:47.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientsRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IClientsRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Repository\\IClientsRepository.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IClientsRepository.cs",
+              "RelativeToolTip": "TelemetryPortal\\Repository\\IClientsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:53:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:52:05.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Repository\\IProjectRepository.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Repository\\IProjectRepository.cs",
+              "RelativeToolTip": "TelemetryPortal\\Repository\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:14:31.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Details.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Clients\\Details.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Details.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Clients\\Details.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelemetryPortal",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
+              "RelativeDocumentMoniker": "TelemetryPortal\\TelemetryPortal.csproj",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
+              "RelativeToolTip": "TelemetryPortal\\TelemetryPortal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T07:43:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Contoller\\ClientsController.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Contoller\\ClientsController.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Contoller\\ClientsController.cs",
+              "RelativeToolTip": "TelemetryPortal\\Contoller\\ClientsController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:50:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Program.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Program.cs",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Program.cs",
+              "RelativeToolTip": "TelemetryPortal\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:57:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Projects\\Edit.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Projects\\Edit.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Projects\\Edit.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Projects\\Edit.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Create.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Clients\\Create.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Create.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Clients\\Create.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Delete.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Clients\\Delete.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Delete.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Clients\\Delete.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Edit.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Clients\\Edit.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Edit.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Clients\\Edit.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clients.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Clients.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Clients\\Clients.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Clients\\Clients.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Clients\\Clients.razor",
+              "ViewState": "AQIAACgAAAAAAAAAAABBwDsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Projects.razor",
+              "DocumentMoniker": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Projects\\Projects.razor",
+              "RelativeDocumentMoniker": "TelemetryPortal\\Components\\Pages\\Projects\\Projects.razor",
+              "ToolTip": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\Components\\Pages\\Projects\\Projects.razor",
+              "RelativeToolTip": "TelemetryPortal\\Components\\Pages\\Projects\\Projects.razor",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwCMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T09:59:54.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
