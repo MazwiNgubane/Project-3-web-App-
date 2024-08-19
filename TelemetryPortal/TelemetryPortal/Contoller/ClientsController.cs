@@ -1,31 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
+using TelemetryPortal.Components.Pages.Clients;
 using TelemetryPortal.Data;
 using TelemetryPortal.Models;
 
-/*namespace TelemetryPortal.Contoller
+namespace TelemetryPortal.Contoller
 {
+
     public class ClientsController : Controller
     {
-        private readonly IClientRepository _ClientRepository;
+        private readonly IClientRepository _clientRepository;
 
-        public ClientsController(IClientRepository context)
+        public ClientsController(IClientRepository clientRepository)
         {
-            _ClientRepository = context;
+            _clientRepository = clientRepository;
         }
 
         // GET: Clients
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Clients.ToListAsync());
+            var clients = await _clientRepository.GetAllAsync();
+            return View(clients);
         }
 
-        // GET: Clients/Details/5
+        // GET: Clients
         public async Task<IActionResult> Details(Guid? id)
         {
             if (id == null)
@@ -33,8 +38,7 @@ using TelemetryPortal.Models;
                 return NotFound();
             }
 
-            var client = await _context.Clients
-                .FirstOrDefaultAsync(m => m.ClientId == id);
+            var client = await _clientRepository.GetByIdAsync(id.Value);
             if (client == null)
             {
                 return NotFound();
@@ -43,95 +47,47 @@ using TelemetryPortal.Models;
             return View(client);
         }
 
-        // GET: Clients/Create
-        public IActionResult Create()
-        {
-            return View();
+        
+         // GET: Clients/Create
+         public IActionResult Create()
+         {
+             return View();
+         }
+
+         // POST: Clients/Create
+         // To protect from overposting attacks, enable the specific properties you want to bind to.
+         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+         [HttpPost]
+         [ValidateAntiForgeryToken]
+         public async Task<IActionResult> Create([Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
+         {
+             if (ModelState.IsValid)
+             {
+                 client.ClientId = Guid.NewGuid();
+                 _clientRepository.Add(client);
+                 await _clientRepository.SaveChangesAsync();
+                 return RedirectToAction(nameof(Index));
+             }
+             return View(client);
         }
 
-        // POST: Clients/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
-        {
-            if (ModelState.IsValid)
-            {
-                client.ClientId = Guid.NewGuid();
-                _context.Add(client);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(client);
-        }
+        //GET: Clients/Delete/5
+         
 
-        // GET: Clients/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
+
+        // GET: Clients/Delete
+        public async Task<IActionResult> Delete(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var client = await _context.Clients.FindAsync(id);
+            var client =  _clientRepository.GetById(id);
             if (client == null)
             {
                 return NotFound();
             }
-            return View(client);
-        }
-
-        // POST: Clients/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("ClientId,ClientName,PrimaryContactEmail,DateOnboarded")] Client client)
-        {
-            if (id != client.ClientId)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(client);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!ClientExists(client.ClientId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(client);
-        }
-
-        // GET: Clients/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var client = await _context.Clients
-                .FirstOrDefaultAsync(m => m.ClientId == id);
-            if (client == null)
-            {
-                return NotFound();
-            }
-
             return View(client);
         }
 
@@ -140,34 +96,37 @@ using TelemetryPortal.Models;
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)
         {
-            var client = await _context.Clients.FindAsync(id);
+            var clients =  _clientRepository.Find(c => c.ClientId == id);
+
+            var client = clients.FirstOrDefault();
             if (client != null)
             {
-                _context.Clients.Remove(client);
+                _clientRepository.Remove(client);
             }
 
-            await _context.SaveChangesAsync();
+            await _clientRepository.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool ClientExists(Guid id)
         {
-            return _context.Clients.Any(e => e.ClientId == id);
+            return _clientRepository.Any(e => e.ClientId == id);
         }
-    }
-}
-*/
-public class ServicesController : Controller
-{
-    private readonly IClientRepository _ClientRepository;
-    public ServicesController(IClientRepository clientRepository)
-    {
-        _ClientRepository = clientRepository;
-    }
 
-    // GET: Services
-    public async Task<IActionResult> Index()
-    {
-        return View(_ClientRepository.GetAll());
+        
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

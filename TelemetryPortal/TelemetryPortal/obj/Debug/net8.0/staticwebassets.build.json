@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v9XGOo/fz/OwvKqpZ7iKHMK8JDrcCQ7hVHg97fNsMvk=",
+  "Hash": "cNYEouzDylrSbvjDH6haWvSgpvm8dHWalrTgxRCFNk8=",
   "Source": "TelemetryPortal",
   "BasePath": "_content/TelemetryPortal",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "TelemetryPortal\\wwwroot",
       "Source": "TelemetryPortal",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.7\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelemetryPortal.styles.css",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelemetryPortal.styles.css",
       "SourceId": "TelemetryPortal",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "TelemetryPortal.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelemetryPortal.styles.css"
+      "OriginalItemSpec": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TelemetryPortal.styles.css"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelemetryPortal.bundle.scp.css",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelemetryPortal.bundle.scp.css",
       "SourceId": "TelemetryPortal",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "TelemetryPortal.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelemetryPortal.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TelemetryPortal.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\app.css",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\app.css",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\favicon.png",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\favicon.png",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V1.png",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V1.png",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "images/tech trends V1.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tech trends V1.png"
     },
     {
-      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V2.png",
+      "Identity": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\images\\tech trends V2.png",
       "SourceId": "TelemetryPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
+      "ContentRoot": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\wwwroot\\",
       "BasePath": "_content/TelemetryPortal",
       "RelativePath": "images/tech trends V2.png",
       "AssetKind": "All",

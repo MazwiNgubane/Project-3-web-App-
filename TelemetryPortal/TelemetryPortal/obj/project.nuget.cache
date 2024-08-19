@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ym4XKbOyhkHRUKNVJLezHX8dleRmIHaUkor5Vh2Djo+49AX0A4++4KHr0hwifcva/shoXAiT7ilibTywuTUPyA==",
+  "dgSpecHash": "xlKe741XbfKq4osHt3hySBJY4dF3MNGPmlw2Ek0XMseA13zPZKn5Z1zAQzfnkS8drKVtVWnybcgrZsPmwVkPpw==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
+  "projectFilePath": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

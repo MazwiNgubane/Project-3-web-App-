@@ -8206,11 +8206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
+      "projectUniqueName": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
       "projectName": "TelemetryPortal",
-      "projectPath": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
+      "projectPath": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\TelemetryPortal.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\cmpg323 projects\\Project 3\\TelemetryPortal\\TelemetryPortal\\obj\\",
+      "outputPath": "D:\\Desktop\\cmpg323 projects\\Project 3\\copy\\TelemetryPortal\\TelemetryPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

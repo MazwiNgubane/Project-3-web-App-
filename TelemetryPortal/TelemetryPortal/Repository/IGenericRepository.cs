@@ -1,12 +1,17 @@
 ﻿using System.Linq.Expressions;
 
+
 public interface IGenericRepository<T> where T : class
 {
-    T GetById(int id);
-    IEnumerable<T> GetAll();
-    IEnumerable<T> Find(Expression<Func<T, bool>> expression);
+    Task<IEnumerable<T>> GetAllAsync();
+    Task<T> GetByIdAsync(Guid id);
+    Task AddAsync(T entity);
+    void Update(T entity);
+   
+    Task SaveChangesAsync();
     void Add(T entity);
-    void AddRange(IEnumerable<T> entities);
+    IEnumerable<T> Find(Expression<Func<T, bool>> expression);
+    T GetById(int id);
     void Remove(T entity);
-    void RemoveRange(IEnumerable<T> entities);
+    bool Any(Expression<Func<T, bool>> predicate);
 }
