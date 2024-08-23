@@ -26,19 +26,19 @@ namespace TelemetryPortal.Contoller
         // GET: Clients
         public async Task<IActionResult> Index()
         {
-            var clients = await _clientRepository.GetAllAsync();
+            var clients = await _clientRepository.GetAll();
             return View(clients);
         }
 
         // GET: Clients
-        public async Task<IActionResult> Details(Guid? id)
+        public async Task<IActionResult> Details(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var client = await _clientRepository.GetByIdAsync(id.Value);
+            var client =  _clientRepository.GetById(id);
             if (client == null)
             {
                 return NotFound();
@@ -65,7 +65,7 @@ namespace TelemetryPortal.Contoller
              {
                  client.ClientId = Guid.NewGuid();
                  _clientRepository.Add(client);
-                 await _clientRepository.SaveChangesAsync();
+                 await _clientRepository.SaveChanges();
                  return RedirectToAction(nameof(Index));
              }
              return View(client);
@@ -104,7 +104,7 @@ namespace TelemetryPortal.Contoller
                 _clientRepository.Remove(client);
             }
 
-            await _clientRepository.SaveChangesAsync();
+            await _clientRepository.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 

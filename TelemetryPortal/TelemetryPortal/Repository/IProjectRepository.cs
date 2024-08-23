@@ -1,6 +1,6 @@
-﻿namespace TelemetryPortal.Repository
+﻿using TelemetryPortal.Models;
+
+public interface IProjectRepository : IGenericRepository<Project>
 {
-    public class IProjectRepository
-    {
-    }
+    Project GetEldestProject();
 }

@@ -15,12 +15,12 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
         _dbSet = _context.Set<T>();
     }
 
-    public async Task<IEnumerable<T>> GetAllAsync()
+    public async Task<IEnumerable<T>> GetAll()
     {
         return await _dbSet.ToListAsync();
     }
 
-    public async Task<T> GetByIdAsync(Guid id)
+    public async Task<T> GetById(Guid id)
     {
         return  _context.Set<T>().Find(id);
     }
@@ -37,7 +37,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : class
 
  
 
-    public async Task SaveChangesAsync()
+    public async Task SaveChanges()
     {
         await _context.SaveChangesAsync();
     }

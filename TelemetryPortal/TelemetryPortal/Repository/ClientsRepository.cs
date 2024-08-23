@@ -1,9 +1,9 @@
 ﻿using TelemetryPortal.Data;
 using TelemetryPortal.Models;
 
-public class ServiceRepository : GenericRepository<Client>, IClientRepository
+public class ClientRepository : GenericRepository<Client>, IClientRepository
 {
-    public ServiceRepository(TechtrendsContext context) : base(context)
+    public ClientRepository(TechtrendsContext context) : base(context)
     {
     }
 
