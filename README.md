@@ -1,4 +1,4 @@
-# CMPG-323-Project-3-30336570 
+# Project-3 (Web App)
 
 ## Project Description 
 in this project we took an existing Brazor Aplication that that manage CRUD Functionalityof project and client data, this application is improved to by implementing coding preciples and design architectural pattern.
